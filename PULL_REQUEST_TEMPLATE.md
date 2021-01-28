@@ -13,7 +13,7 @@
 
 ### Screenshots
 
---screenshots of (before & after) changes if relevant--
+--screenshots of changes (before & after) if relevant--
 
 ### Other notes
 
