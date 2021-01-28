@@ -9,12 +9,12 @@
 
 ### Ticket
 
-<link to ab issue here>
+--link to ab issue here--
 
 ### Screenshots
 
-<screenshots of (before & after) changes if relevant>
+--screenshots of (before & after) changes if relevant--
 
 ### Other notes
 
-<any additional info for reviewer>
+--any additional info for reviewer--
