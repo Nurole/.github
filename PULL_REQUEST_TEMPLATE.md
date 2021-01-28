@@ -2,10 +2,10 @@
 
 ## Checklist
 
-- [] Sense checked code
-- [] Written automated tests for code
-- [] Paired with QA (if appropriate)
-- [] All commits match style (https://chris.beams.io/posts/git-commit/)
+- [ ] Sense checked code
+- [ ] Written automated tests for code
+- [ ] Paired with QA (if appropriate)
+- [ ] All commits match style (https://chris.beams.io/posts/git-commit/)
 
 ### Ticket
 
