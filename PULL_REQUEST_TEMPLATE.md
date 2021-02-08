@@ -6,7 +6,7 @@
 - [ ] Written automated tests for code
 - [ ] Paired with QA (if appropriate)
 - [ ] All commits match style (https://chris.beams.io/posts/git-commit/)
-- [ ] All extraneous logging has been removed (and we are not logging and sensitive information
+- [ ] All extraneous logging has been removed (and no logs of sensitive information)
 
 ### Ticket
 
